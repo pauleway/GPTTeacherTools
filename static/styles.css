@@ -1,0 +1,15 @@
+.navbar a {
+    color: white;
+}
+.textarea {
+  font-family: Consolas, monospace;
+  white-space: pre;
+  word-wrap: normal;
+  padding: 0.1em 0.3em;
+  border: solid thin;
+  overflow: auto;
+  width: 25em; /* fallback for browsers not supporting ch */
+  width: 60ch;
+}
+
+
